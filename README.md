@@ -4,8 +4,8 @@ In future updates, a graphical user interface will be incorporated to replace th
 
 Upcoming Patches:
 
-1-Add GUI.
-2-Make a customizable wake-word.
+1-Add GUI.\n
+2-Make a customizable wake-word.\n
 3-Make the original bot file into a library that can be accessed from the GUI which is in a seperate file.
 4-Add dark and ligh mode.
 5-Create a local database where all of the command history is saved and add an option which allows the user to toggle it on or off, also add an option where the user can delete history when needed.
