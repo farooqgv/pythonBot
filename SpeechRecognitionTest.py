@@ -92,4 +92,8 @@ while True:
                 board.digital[13].write(0)
                 ##Arduino_Serial.write(ord('1'))             #send 1 to arduino
                 print ("LED ON")
-            
+
+            elif "how hot is it inside the house" in text or "temperature inside my house" in text or "what is the temperature inside" in text or "temperature inside" in text:
+
+                #TODO: Activate DHT Sensor And Get The Temp And The Humidity From The Arduino To This, Python Program, And Round It To The Nearest Whole Degree!
+                print("Activate DHT Sensor And Get The Temp And The Humidity From The Arduino To This, Python Program, And Round It To The Nearest Whole Degree!")
